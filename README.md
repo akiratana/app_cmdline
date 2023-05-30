@@ -7,3 +7,5 @@ cmdline.exe.config
 Release\\cmdline "hello cmdline line"
 
 で実行すればトークンで指定したところに"hello cmdline line"が通知される。
+
+230530 サンプルexcell追加
