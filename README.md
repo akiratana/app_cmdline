@@ -2,7 +2,7 @@
 
 cmdline.exe.config
 in the "cmdline.exe.config" file.
-Put a token in the "token here" field and the notification will go there.
+Put a token in the "ここにトークン" field and the notification will go there.
 
 
 Release\cmdline "hello cmdline line"
