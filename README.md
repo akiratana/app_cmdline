@@ -9,7 +9,8 @@ Release\cmdline "hello cmdline line"
 
 then "hello cmdline line" will be notified to the location specified by the token.
 
-日本語--------------------
+以下日本語--------------------
+
 cmdline.exe.config
 の
 "ここにトークン"にトークンを入れればそこに通知が行く
